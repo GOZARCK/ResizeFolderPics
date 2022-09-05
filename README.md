@@ -38,9 +38,10 @@ example:
 
 windows
 -------
-Run the script main  with python3.8
+<h7>Run the script main  with python3.8<br>
+or <br>
 Compile the script with cx-freeze(using the setup code)
-
+</h7>
 
 Linux
 -------------
