@@ -60,3 +60,7 @@ run this script bash.
 
 ./ResizeFolderPics.sh
 
+List to do
+-----------
+- [x] Public my code
+
