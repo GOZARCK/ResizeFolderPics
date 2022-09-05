@@ -4,7 +4,7 @@
 Resize all the images in the folder and save it.
 ------------
 This script resize all pics in folder with cv2 multithread
-this is super faster.
+this is super faster🚀.
 the pics are ready resized for shared to  the web.
 
 ###### base requerimets
@@ -35,6 +35,11 @@ Is very easy.
 example:
 
 --folder pic --percent 50 --dfolder pics_resized --quality 40
+
+windows
+-------
+Run the script main  with python3.8
+Compile the script with cx-freeze(using the setup code)
 
 
 Linux
