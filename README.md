@@ -1,12 +1,24 @@
 # ResizeFolderPics
 
 
-Resize all the images in the folder and save it in another.
+Resize all the images in the folder and save it.
 ------------
 This script resize all pics in folder with cv2 multithread
 this is super faster.
 the pics are ready resized for shared to  the web.
-created  with pycharm and using his venv. 
+
+base requerimets
+
+python3.8
+cv2
+argparse
+
+art
+colorama
+tqdm
+
+made it with pycharm-comunity and using his venv. 
+
 
 How to use?
 -----------
