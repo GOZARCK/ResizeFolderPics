@@ -33,8 +33,15 @@ Is very easy.
 
 
 example:
+cmd windows
+```
 
---folder pic --percent 50 --dfolder pics_resized --quality 40
+python main --folder pic --percent 50 --dfolder pics_resized --quality 40
+```
+or in linux
+```sh
+./venv/bin/python main --folder pic --percent 50 --dfolder pics_resized --quality 40
+```
 
 windows
 -------
