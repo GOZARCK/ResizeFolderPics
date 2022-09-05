@@ -4,8 +4,11 @@
 Resize all the images in the folder and save it.
 ------------
 This script resize all pics in folder with cv2 multithread
-this is super faster🚀.
-the pics are ready resized for shared to  the web.
+this is super faster🚀.<br>
+the pics are ready resized for shared to  the web.<br>
+I Working with a lot of image everyday, <br>
+i made this script to make my job more easy.<br>
+Please enjoy!
 
 ###### base requerimets
 
