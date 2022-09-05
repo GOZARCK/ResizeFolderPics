@@ -27,6 +27,7 @@ from tqdm import tqdm  # progressbar
 from colorama import Fore, Back, Style, Cursor, init # color in text
 init()  # for  colorama
 cv2.__file__  # for  cv2
+#colorama and art makes this fun...tqdm also!
 
 start = time.perf_counter()  # start time
 '''
