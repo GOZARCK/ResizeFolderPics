@@ -7,17 +7,16 @@ This script resize all pics in folder with cv2 multithread
 this is super faster.
 the pics are ready resized for shared to  the web.
 
-base requerimets
+###### base requerimets
 
-python3.8
-cv2
-argparse
+- python3.8
+- cv2
+- argparse
+- art
+- colorama
+- tqdm
 
-art
-colorama
-tqdm
-
-made it with pycharm-comunity and using his venv. 
+<sub>  made it with pycharm-comunity and using his venv. </sub> 
 
 
 How to use?
