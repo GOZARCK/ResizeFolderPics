@@ -61,8 +61,8 @@ print(f'{Fore.LIGHTYELLOW_EX}Resize Folder Pics V1.13.07.2022 By {Fore.LIGHTBLUE
 
 print \
     (f'Resize image at {Fore.LIGHTGREEN_EX}{percent} % {Fore.RESET}from {Fore.LIGHTGREEN_EX}{folder}{Fore.RESET} Save in {Fore.LIGHTGREEN_EX}{dfolder}{Fore.RESET} quality at {Fore.LIGHTGREEN_EX}{quality}%{Fore.RESET}')
-
-pbar = tqdm(ncols=100, total=file_count, ascii="░▒█"  )  
+#pbar = tqdm(ncols=100, total=file_count, ascii="░▒█"  )
+pbar = tqdm(ncols=100, total=file_count  )  
 def imres(files):  
 
     image = cv2.imread(files, cv2.IMREAD_UNCHANGED)  
