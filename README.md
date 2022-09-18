@@ -80,8 +80,7 @@ List to do
 -----------
 - [x] Public my code
 
-Visits
------------
+
 ## Visits
 
 <p align="center">
