@@ -87,4 +87,4 @@ List to do
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@GOZARCK?theme=gelbooru"/></a>
 </p>
 
-Counting since `2022-09-18T18:53:06Z` (ISO 8601)
+
